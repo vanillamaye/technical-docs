@@ -39,7 +39,7 @@ In this step, I'm going to download and creating account on Cursor.
 
 ### How Cursor differs from other AI coding tools
 
-Cursor is different because it integrates an IDE with an AI chat. It stands out because the editor and the AI are the same app out of the box which you can read and modify the code as well as get AI write the code for you.
+Cursor is different because it integrates an IDE with an **AI chat**. It stands out because the editor and the AI are the same app out of the box which you can read and modify the code as well as get AI write the code for you.
 
 ### Getting the starter code
 
